@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>V.PrecisionHelper</PackageId>
+    <Authors>Evgeniy Vasenev</Authors>
+    <Company>Evgeniy Vasenev</Company>
+    <Product>Precision Helper</Product>
+    <Description>Helper calss for get number of numbers after dot:
+0.1f -&gt; 1
+0.001f -&gt; 3</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/VasenevEA/PrecisionHelper</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
