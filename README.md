@@ -1,5 +1,5 @@
 # PrecisionHelper
-Helper calss for get number of numbers after dot
+Helper calss for get count of numbers after dot
 
 0.1f -> 1
 
